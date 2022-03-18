@@ -14,7 +14,7 @@ spec:
         app: guestbook-ui
     spec:
       containers:
-      - image: 226104789339.dkr.ecr.ap-northeast-1.amazonaws.com/hello-world:feature
+      - image: 226104789339.dkr.ecr.ap-northeast-1.amazonaws.com/teas_calc:0.1
         name: guestbook-ui
         ports:
         - containerPort: 80
