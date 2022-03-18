@@ -1,0 +1,21 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: myapp-dep
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      myapp: front
+  template:
+    metadata:
+      labels:
+        myapp: front
+    spec:
+      containers:
+      - name: myapp
+        image: 226104789339.dkr.ecr.ap-northeast-1.amazonaws.com/teas_calc:0.1
+        ports:
+        - containerPort: 5042
+
