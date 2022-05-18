@@ -3,12 +3,12 @@ entries:
   hogechart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-17T03:34:36.74217194-04:00"
+    created: "2022-05-18T02:54:16.640160285-04:00"
     description: A Helm chart for Kubernetes
-    digest: 00b85a746bb3f53e66fb125c3b40307b9e698b99af4853dc22b185bc4e3d0854
+    digest: 6d6e9f159b19c79917e63726cf9ef6816531bc1ee4ffd7264e943424ad8604e2
     name: hogechart
     type: application
     urls:
     - hogechart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-17T03:34:36.741453133-04:00"
+generated: "2022-05-18T02:54:16.639471156-04:00"
