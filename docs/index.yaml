@@ -3,12 +3,12 @@ entries:
   mysqlchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-20T00:53:32.635968974-04:00"
+    created: "2022-05-20T01:07:30.359873446-04:00"
     description: A Helm chart for Kubernetes
-    digest: b0aa7c4eceb8858c7887193d2160281e9a262df6a618bff4164a9c6089e65765
+    digest: b39e905643c7356cb016549f9299eb69dd41d888afbb80db18c705a54aff0dfc
     name: mysqlchart
     type: application
     urls:
     - mysqlchart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-20T00:53:32.635308896-04:00"
+generated: "2022-05-20T01:07:30.359197169-04:00"
